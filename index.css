@@ -1,6 +1,8 @@
  h1 {
         text-align: center;
-        margin-left: auto;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 100px;
 }
 
 .main-header {
