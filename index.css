@@ -15,3 +15,13 @@ h1, h2, p {
  width: 30%;
  padding: 25px;
 }
+
+
+.stats-members {
+ font-family: Andale Mono;
+ margin-left: auto;
+ background-color: black;
+ color: white;
+ width: 30%;
+ padding: 25px;
+}
