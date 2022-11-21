@@ -7,7 +7,7 @@ h1, h2, p {
  font-family: Impact, serif;
 }
 
-.stats-members {
+.stats-members, .servers {
  font-family: Andale Mono;
  margin-right: auto;
  background-color: black;
@@ -17,11 +17,3 @@ h1, h2, p {
 }
 
 
-.servers {
- font-family: Andale Mono;
- margin-left: auto;
- background-color: black;
- color: white;
- width: 30%;
- padding: 20px;
-}
