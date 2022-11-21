@@ -8,8 +8,10 @@ h1, h2, p {
 }
 
 .stats-members {
- font-family: Andale Mono, monospace;
+ font-family: Andale Mono;
  margin-right: auto;
  background-color: black;
  color: white;
+ width: 30%;
+ padding: 25px;
 }
