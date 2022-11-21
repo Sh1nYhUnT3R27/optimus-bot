@@ -6,3 +6,10 @@ h1, h2, p {
   text-align: center;
  font-family: Impact, serif;
 }
+
+.stats-members {
+ font-family: Andale Mono, monospace;
+ margin-right: auto;
+ background-color: black;
+ color: white;
+}
