@@ -1,9 +1,10 @@
  body {
-  background-color: grey;
+  background-image: url(https://i.ytimg.com/vi/81W2OWiETWU/maxresdefault.jpg);
 }
 
 h1, h2, p {
-  text-align: center;
+ color: white;
+ text-align: center;
  font-family: Impact, serif;
 }
 
