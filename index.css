@@ -9,22 +9,11 @@ h1, h2, p {
 }
 
 .stats-members, .servers {
- font-family: Andale Mono;
- margin: 0 auto;
- background-color: black;
- color: white;
- width: 30%;
- padding: 20px;
+ border: 4mm ridge rgba(52, 65, 255 .6);
  text-align: center;
 }
 
-.invite {
- background-color: black;
- padding: 30px;
- width: 70%;
- text-align: center;
- margin-left: auto;
-}
+
  
 
 
