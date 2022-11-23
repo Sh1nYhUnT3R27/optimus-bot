@@ -9,8 +9,9 @@ h1, h2, p {
 }
 
 .stats-members, .servers {
- border: 4mm ridge rgba(52, 65, 255 .6);
+ border: 4mm ridge rgb(52, 65, 255);
  text-align: center;
+ color: white;
 }
 
 
