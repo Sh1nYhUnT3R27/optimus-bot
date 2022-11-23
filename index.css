@@ -10,7 +10,7 @@ h1, h2, p {
 
 .stats-members, .servers {
  font-family: Andale Mono;
- margin-right: auto;
+ margin: 0 auto;
  background-color: black;
  color: white;
  width: 30%;
