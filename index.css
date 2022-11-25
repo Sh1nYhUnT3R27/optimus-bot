@@ -12,6 +12,7 @@ h1, h2, p {
  border: 4mm ridge rgb(52, 65, 255);
  text-align: center;
  color: white;
+ width: 40px;
 }
 
 
