@@ -1,6 +1,8 @@
  body {
   background-image: url(https://wallpaper.dog/large/17253192.jpg);
+    margin: auto;
   width: 100%;
+
 }
 
 h1, h2, p {
